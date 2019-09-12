@@ -1,0 +1,26 @@
+.header-top{
+	margin-left: 70px;
+}
+
+.img-modal{
+	margin-left: -23px;
+}
+
+.modal-title-custom {
+	float: left !important;
+    margin-left: 11px !important;
+}
+
+.button-cls {
+	padding-left: 96%;
+    padding-top: 2%;
+    margin-bottom: -35px;
+}
+
+.button-cls-custom {
+    background: transparent;
+    border: transparent;
+    font-weight: bold;
+    z-index: 1;
+    cursor: pointer;
+}
